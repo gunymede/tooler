@@ -22,10 +22,10 @@ Sneaking while mining a log with an axe will break all adjacent logs.
 
 > This will only trigger if the log is connected to leaves
 #
-### Farmer
+### Planter
 Sneaking while breaking fully grown crops with a hoe will replant them. 
 
-![Farmer Demonstration](https://github.com/gunymede/-/assets/152955156/33eb8f6f-b6a7-42bd-82e1-760c1dec832e)
+![Planter Demonstration](https://github.com/gunymede/-/assets/152955156/33eb8f6f-b6a7-42bd-82e1-760c1dec832e)
 >Crops that haven't matured will not be destroyed if broken.
 
 ## Config
