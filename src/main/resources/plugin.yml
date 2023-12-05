@@ -1,0 +1,5 @@
+main: io.github.gunymede.tooler.ToolerPlugin
+name: Tooler
+version: 1.0
+author: gunymede
+description: Plugin that makes your tools stronger
